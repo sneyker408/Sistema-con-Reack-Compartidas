@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("reactBackend")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Temporal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19771566b999eaefa8a6c6c700028ad08e50d8c5")]
-[assembly: System.Reflection.AssemblyProductAttribute("reactBackend")]
-[assembly: System.Reflection.AssemblyTitleAttribute("reactBackend")]
+[assembly: System.Reflection.AssemblyProductAttribute("Temporal")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Temporal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

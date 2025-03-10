@@ -1,0 +1,6 @@
+C:\Users\sneyk\OneDrive\Documentos\Programacion\ReackC#Project\NotasProyecto\Temporal\obj\Debug\net8.0\Temporal.csproj.AssemblyReference.cache
+C:\Users\sneyk\OneDrive\Documentos\Programacion\ReackC#Project\NotasProyecto\Temporal\obj\Debug\net8.0\Temporal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sneyk\OneDrive\Documentos\Programacion\ReackC#Project\NotasProyecto\Temporal\obj\Debug\net8.0\Temporal.AssemblyInfoInputs.cache
+C:\Users\sneyk\OneDrive\Documentos\Programacion\ReackC#Project\NotasProyecto\Temporal\obj\Debug\net8.0\Temporal.AssemblyInfo.cs
+C:\Users\sneyk\OneDrive\Documentos\Programacion\ReackC#Project\NotasProyecto\Temporal\obj\Debug\net8.0\Temporal.csproj.CoreCompileInputs.cache
+C:\Users\sneyk\OneDrive\Documentos\Programacion\ReackC#Project\NotasProyecto\Temporal\obj\Debug\net8.0\Temporal.sourcelink.json
